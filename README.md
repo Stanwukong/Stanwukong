@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Oluwafemi Ajanaku,<br>👀 Big appetite, the Hunger! It consumes me!!<br>👀 I’m interested in C, Python, JavaScript, React, and Next.js<br>🌱 I’m currently learning Next.js and Python<br>💞️ I’m looking to collaborate on any devops project
+👋 Hi, I’m Oluwafemi Ajanaku,<br>👀 Big appetite, the Hunger! It consumes me!!<br>👀 I’m interested in C, Python, JavaScript, React, and Next.js<br>🌱 I’m currently learning Next.js and Python<br>💞️ I’m looking to collaborate on any open-source project
 
 
 ## 🌐 Socials:
