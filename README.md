@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Oluwafemi Ajanaku,<br> Still learning to program ~1 year <br>👀 I’m interested in Web development and Machine learning🌱 I’m currently learning Next.js and Python<br>👨‍💻 I’m looking to collaborate on open source projects, hackathons, internships, and entry-level opportunities.
+👋 Hi, I’m Oluwafemi Ajanaku, <br> Still learning to program ~1 year <br> 👀 I’m interested in Web development and Machine learning🌱 <br> I’m currently learning Next.js and Python <br>👨‍💻 I’m looking to collaborate on open source projects, hackathons, internships, and entry-level opportunities.
 
 
 ## 🌐 Socials:
