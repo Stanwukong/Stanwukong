@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Oluwafemi Stanley Ajanaku, <br> Still learning to program ~1 year <br> 👀 I’m interested in Web Development🌱 <br> I’m currently learning C++ and Python <br>👨‍💻 I’m looking to collaborate on open source projects, hackathons, internships, and entry-level opportunities.
+👋 Hi, I’m Oluwafemi Stanley Ajanaku, <br> Learning to write code <br> 👀 I’m interested in being a Full-stack Software Engineer🌱 <br> I’m currently learning C and Linux OS <br> 👨‍💻 I’m available to collaborate on open source projects, hackathons, internships, and entry-level opportunities. You can reach out via my socials
 
 
 ## 🌐 Socials:
