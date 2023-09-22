@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Oluwafemi Stanley Ajanaku 🦍 <br>  👀 I want to be a Full-stack Software Engineer🌱 <br> I’m currently learning C, Bash Scripting and Linux OS <br> 👨‍💻 I’m available to collaborate on open source projects, hackathons, internships, and entry-level opportunities. You can reach out via my socials
+👋 Hi, I’m Oluwafemi Stanley Ajanaku 🦍 <br>  I’m currently learning C, Bash Scripting and Linux OS <br> 👨‍💻 I’m available to collaborate on open source projects, hackathons, internships, and entry-level opportunities. You can reach out via my socials
 
 
 ## 🌐 Socials:
