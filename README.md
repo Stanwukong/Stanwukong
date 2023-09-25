@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Oluwafemi Stanley Ajanaku 🦍 <br>  I’m currently learning C, Bash Scripting and Linux OS
+👋 Hi, I’m Oluwafemi Stanley Ajanaku 🦍 <br>  I’m currently learning C, Python, Bash Scripting and Linux OS
 
 
 ## 🌐 Socials:
