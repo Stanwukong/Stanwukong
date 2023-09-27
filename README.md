@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Oluwafemi Stanley Ajanaku 🦍<br> I mostly build websites, and I'm currently attending a bootcamp for Full Stack Software Engineering. <br> I want the freedom of creation that comes with being a good software engineer <br>  I’m currently learning C, Python, Bash Scripting and Linux OS
+👋 Hi, I’m Oluwafemi Stanley Ajanaku 🦍 <br> I build websites <br> I am currently attending a bootcamp for Full Stack Software Engineering. <br> I want the freedom of creation that comes with being a good software engineer <br>  I’m currently learning C, Python, Bash Scripting and Linux OS
 
 
 ## 🌐 Socials:
