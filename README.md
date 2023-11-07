@@ -1,3 +1,6 @@
+![watchman](https://github.com/Stanwukong/Stanwukong/assets/111810384/6cf244f7-3a5c-4a01-8a63-2167d8d205d6)
+
+
 <div align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
   <h2>
@@ -17,10 +20,14 @@
 - Fun fact: I try to document all my projects. If you notice any missing documentation please raise an issue
 - When I'm not coding, you'll find me reading, cooking and playing games...Yes I mean I do all those things at the same time
 
- 
-  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stanwukong&theme=github_dark)
-  ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stanwukong&theme=github_dark)
-  <div align="center">
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stanwukong&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stanwukong&theme=github_dark">
+</div>
+
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stanwukong&theme=github_dark&hide_border=false">
 </div>
 
