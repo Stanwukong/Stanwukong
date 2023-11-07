@@ -1,6 +1,9 @@
 ![watchman](https://github.com/Stanwukong/Stanwukong/assets/111810384/6cf244f7-3a5c-4a01-8a63-2167d8d205d6)
 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=900&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Let+Me+Show+You+Eternity" alt="Typing SVG" />
+
+
 <div align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
   <h2>
