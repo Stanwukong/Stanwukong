@@ -17,9 +17,9 @@
 
 
 
-- I am pursuing a career in Software Development
+- I'm pursuing a career in Software Development
 - I'm interested in Web development and Artificial intelligence
-- I’m currently learning C, Python, Bash Scripting and Linux OS as well as the Next/React Ecosystem.
+- I’m currently learning C, Python, Bash Scripting, Linux OS and the Next/React Ecosystem.
 - Fun fact: I try to document all my projects. If you notice any missing documentation please raise an issue
 - When I'm not coding, you'll find me reading, cooking and playing games...Yes I mean I do all those things at the same time
 
