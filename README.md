@@ -18,7 +18,7 @@
 
 
 ## Here's an overview of me
-- I'm pursuing a career in Software Development
+- Cybernaut
 - I'm interested in Web development and Artificial intelligence
 - I’m currently learning C, Python, Bash Scripting, Linux OS and the Next/React Ecosystem.
 - Fun fact: I try to document all my projects. If you notice any missing documentation please raise an issue
