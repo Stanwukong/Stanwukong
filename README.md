@@ -17,7 +17,7 @@
  <!-- **irsayvid/irsayvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-## Here's an overview of me
+## Here's an overview
 - Cybernaut
 - I'm interested in Web development and Artificial intelligence
 - I’m currently learning C, Python, Bash Scripting, Linux OS and the Next/React Ecosystem.
