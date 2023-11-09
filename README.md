@@ -2,7 +2,7 @@
 ![download](https://github.com/Stanwukong/Stanwukong/assets/111810384/0d3a196b-1d9a-47a2-88b6-f146ed36df32)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=900&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Behold+Eternity" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=900&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+Space" alt="Typing SVG" />
 
 
 <div align="center">
