@@ -2,7 +2,7 @@
 ![download](https://github.com/Stanwukong/Stanwukong/assets/111810384/0d3a196b-1d9a-47a2-88b6-f146ed36df32)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=900&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+Space" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=900&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+Eternity+my+old+friend" alt="Typing SVG" />
 
 
 <div align="center">
@@ -17,11 +17,11 @@
  <!-- **irsayvid/irsayvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-## Here's an overview
-- Cybernaut
-- I'm interested in Web development and Artificial intelligence
+## Here's an overview of this guy
+- I code, cook and eat. Sleep is for the weak...
+- I'm interested in... Still finding my path
 - I’m currently learning C, Python, Bash Scripting, Linux OS and the Next/React Ecosystem.
-- Fun fact: I try to document all my projects. If you notice any missing documentation please raise an issue
+- Fun fact: Good programmers aren't afraid to break things
 - When I'm not coding, you'll find me reading, cooking and playing games...Yes I mean I do all those things at the same time
 
 
