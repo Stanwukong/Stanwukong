@@ -19,7 +19,7 @@
 
 ## Here's an overview of this guy
 - I code, cook and eat. Sleep is for the weak...
-- I'm interested in... Still finding my path
+- I'm interested in... writing code that does important things
 - I’m currently learning C, Python, Bash Scripting, Linux OS and the Next/React Ecosystem.
 - Fun fact: Good programmers aren't afraid to break things
 - When I'm not coding, you'll find me reading, cooking and playing games...Yes I mean I do all those things at the same time
