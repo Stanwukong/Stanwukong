@@ -17,12 +17,13 @@
  <!-- **irsayvid/irsayvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-## Here's an overview of this guy
+## Here's what you should know about me:
 - I code, cook and eat. Sleep is for the weak...
-- I'm interested in... writing code that does important things
+- I'm interested in... writing code that does stuff
 - I’m currently learning C, Python, Bash Scripting, Linux OS and the Next/React Ecosystem.
 - Fun fact: Good programmers aren't afraid to break things
 - When I'm not coding, you'll find me reading, cooking and playing games...Yes I mean I do all those things at the same time
+- Looking to collaborate... with collaborators -_-
 
 
 <div align="center">
