@@ -6,11 +6,11 @@
 
 
 <div align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
+  
   <h2>
 
     Hello World, Femi here 🦍.
-
+<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
   </h2>
 </div>
 
