@@ -33,10 +33,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stanwukong&theme=github_dark&hide_border=true">
-</div>
-
-<div align="center">
   <h3>
     
     Skills 💪
