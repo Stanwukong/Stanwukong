@@ -16,7 +16,6 @@
 
 
 ## Who am I:
-- I am a software engineer and forex trader
 - I live in Lagos, Nigeria
 - I am currently freelancing, and contributing to open-source projects
 - Check my repos for a catalogue of projects I've worked on in various programming languages including `C`, `JavaScript/TypeScript`, `Python` and `Bash`
