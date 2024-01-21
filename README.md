@@ -19,7 +19,7 @@
 - I live in Lagos, Nigeria
 - I am currently freelancing, and contributing to open-source projects
 - Check my repos for a catalogue of projects I've worked on in various programming languages including `C`, `JavaScript/TypeScript`, `Python` and `Bash`
-- I like DevOps and Automation for Infrastructures.
+- I'm interested in DevOps and Automation.
 - I’m currently focused on depeening my understanding of C, Python, Bash Scripting, Linux OS and the Next/React Ecosystem.
 - Fun fact: As far as we know, humans are the fastest growing lifeforms in the universe... Relatively
 - When I'm not coding, you'll find me reading, hanging out with friends or playing games
