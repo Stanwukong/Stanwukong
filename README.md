@@ -2,7 +2,6 @@
 ![download](https://github.com/Stanwukong/Stanwukong/assets/111810384/0d3a196b-1d9a-47a2-88b6-f146ed36df32)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=900&size=30&pause=1000&center=true&vCenter=true&random=false&width=445&lines=Hello+Eternity,+old+friend" alt="Typing SVG" />
 
 
 <div align="center">
@@ -10,20 +9,22 @@
   <h2>
 
     Hello World, Femi here 🦍.
-<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
   </h2>
 </div>
 
  <!-- **irsayvid/irsayvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-## Here's what you should know about me:
-- I code, cook and eat. Sleep is for the weak...
-- I'm interested in... writing code that does stuff
-- I’m currently learning C, Python, Bash Scripting, Linux OS and the Next/React Ecosystem.
-- Fun fact: Good programmers aren't afraid to break things
-- When I'm not coding, you'll find me reading, cooking and playing games...Yes I mean I do all those things at the same time
-- Looking to collaborate... with collaborators -_-
+## Who am I:
+- I am a software engineer and forex trader
+- I live in Lagos, Nigeria
+- I am currently freelancing, and contributing to open-source projects
+- Check my repos for a catalogue of projects I've worked on in various programming languages including `C`, `JavaScript/TypeScript`, `Python` and `Bash`
+- I like DevOps and Automation for Infrastructures.
+- I’m currently focused on depeening my understanding of C, Python, Bash Scripting, Linux OS and the Next/React Ecosystem.
+- Fun fact: As far as we know, humans are the fastest growing lifeforms in the universe... Relatively
+- When I'm not coding, you'll find me reading, hanging out with friends or playing games
+- Have fun here, and leave a star if you like any of my projects.
 
 
 <div align="center">
@@ -45,8 +46,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
