@@ -16,8 +16,8 @@
 
 
 ## Who am I:
+- A sapien like you
 - I live in Lagos, Nigeria
-- I am currently freelancing, and contributing to open-source projects
 - Check my repos for a catalogue of projects I've worked on in various programming languages including `C`, `JavaScript/TypeScript`, `Python` and `Bash`
 - I'm interested in DevOps and Automation.
 - I’m currently focused on depeening my understanding of C, Python, Bash Scripting, Linux OS and the Next/React Ecosystem.
