@@ -19,9 +19,9 @@
 - A sapien like you
 - I live in Lagos, Nigeria
 - Check my repos for a catalogue of projects I've worked on in various programming languages including `C`, `JavaScript/TypeScript`, `Python` and `Bash`
-- I'm interested in DevOps and Automation.
-- I’m currently focused on depeening my understanding of C, Python, Bash Scripting, Linux OS and the Next/React Ecosystem.
-- When I'm not coding, you'll find me reading, hanging out with friends or playing games
+- I love building and automating things and processes, languages and frameworks have never been a barrier to me.
+- I’m currently focused on depeening my understanding of Python, TypeScript, the Linux OS and the Next/React Ecosystem.
+- When I'm not coding, you'll find me reading, hanging out with friends or playing Warframe.
 - Have fun, and leave a star if you like any of my projects.
 
 
