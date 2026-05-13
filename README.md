@@ -18,9 +18,9 @@
 ## Who am I:
 - A sapien like you
 - Currently in Lagos, Nigeria
-- Check my repos for a catalogue of projects I've worked on in various programming languages including `C`, `JavaScript/TypeScript`, `Python` and `Bash`
+- Check my repos for a catalogue of projects I've worked on in various programming languages including `C`, `JavaScript/TypeScript`, `Python` and more.
 - I love building, languages and frameworks have never been a barrier to me.
-- I’m currently focused on depeening my understanding in Cloud Engineering, NestJS, the Linux OS and the Next/React Ecosystem.
+- I’m currently focused on depeening my understanding in AI Engineering, LLM training, Computer Vision, the Linux OS and the Next/React Ecosystem.
 - When I'm not coding, you'll find me reading, hanging out with friends or playing COD.
 - Have fun, and leave a star if you like any of my projects.
 
